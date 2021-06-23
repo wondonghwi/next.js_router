@@ -6,7 +6,7 @@ const MainHeader = () => {
   return (
     <header className={classes.header}>
       <div className={classes.logo}>
-        <Link href="/">NextEvents</Link>
+        <Link href="/">원동휘 Home</Link>
       </div>
       <nav className={classes.navigation}>
         <ul>
